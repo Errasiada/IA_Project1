@@ -2,11 +2,11 @@
 
 In this project the main task is adding several agents with a different behaviour for each one using NavMesh. First of all let's add a First Person player controller as an objective to the agents. There are 3 types of agents depending on its color (Blue,Green,Red):
 
-Red agent's Area Mask covers everything
+Red agent's covers everything
 
-Blue agent's Area Mask covers everything but Jump.
+Blue agent's covers everything but Jump.
 
-Green agent's Area Mask covers everything but Corridor.
+Green agent's covers everything but Corridor.
 
 Also each agent has a different speed (2.5, 3, 3.5). This way each agent needs to find different paths to reach de player.
 
