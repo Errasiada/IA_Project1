@@ -8,7 +8,7 @@ Blue agent's covers everything but Jump.
 
 Green agent's covers everything but Corridor.
 
-Also each agent has a different speed (2.5, 3, 3.5). This way each agent needs to find different paths to reach de player.
+Also each agent has a different speed (2.5, 3, 3.5). This way each agent needs to find different paths to reach the player depending on its location
 
 Sample 1) Blue agent following player through the corridor.
 
